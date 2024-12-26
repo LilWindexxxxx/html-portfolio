@@ -1,2 +1,2 @@
 # html-portfolio
-My personal portfolio directed by Angels Yu's web development course
+My personal portfolio directed by Angela Yu's web development course
